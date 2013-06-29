@@ -8,7 +8,7 @@
   </head>
   <body>
 	  <div class="container">
-		<img src="banner1.png">
+		<img src="img/banner1.png">
 		<div class="navbar">
 		  <div class="navbar-inner">
 		  	<ul class="nav">
