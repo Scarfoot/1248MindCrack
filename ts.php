@@ -21,10 +21,12 @@
 		    </ul>
 		  </div>
 		</div>
-		<div style="text-align:center">
-			<p class="lead"> Welcome to the 1248 Gamming Feed the Beast MindCrack server.</p>
-			<code>ftb.1248.net.nz</code>
+		<div class="page-header">
+			<h1>Teamspeak</h1>
 		</div>
+		<p>Teamspeak is a VoIP is a client that many of the players on the server use. It can be downloaded 
+			<a href="http://www.teamspeak.com/?page=downloads">here.</a>Once you have downloaded and installed the
+			client go to connections->connect.Put <code>1248.net.nz</code> for the ip</p>
 	</div>
 	<script src="js/bootstrap.min.js"></script>
   </body>

@@ -14,8 +14,9 @@
 		  	<ul class="nav">
 		      <li><a href="index.php">Home</a></li>
 		      <li><a href="gettingstarted.php">Getting Started</a>
-		      <li><a href="rules.php">Server Rules</a></li>
+		      <li><a href="info.php">Server Info</a></li>
 		      <li><a href="tutorials.php">Tutorials</a></li>
+		      <li><a href="ts.php">Teamspeak Server</a><li>
 		      <li><a href="http://1248.net.nz">1248 Gaming</a></li>
 		    </ul>
 		  </div>

@@ -14,9 +14,9 @@
 		  	<ul class="nav">
 		      <li><a href="index.php">Home</a></li>
 		      <li><a href="gettingstarted.php">Getting Started</a>
-		      <li><a href="rules.php">Server Rules</a></li>
+		      <li><a href="info.php">Server Info</a></li>
 		      <li><a href="tutorials.php">Tutorials</a></li>
-		      
+		      <li><a href="ts.php">Teamspeak Server</a><li>
 		      <li><a href="http://1248.net.nz">1248 Gaming</a></li>
 		    </ul>
 		  </div>
@@ -24,15 +24,16 @@
 		<div class="page-header">
 			<h1>Tutorials</h1>
 		</div>
-		<h2>Allocating More Memory</h2>
-		<ul class="lead">
+		<h3>Allocating More Memory</h3>
+		<ul>
 			<li>If you are ingame reopen but do not launch.</li>
 			<li>From the laucher got to options.</li>
 			<li>Adjust the slider. Generally the more ram the better, 
 				though do remeber to leave enought for the operating system and other applications.
 				Gernerally 1GB</li>
 		</ul>
-		<h2>Installing External Mods</h2>
+		<h3>Installing External Mods</h3>
+		<h3>Regioning</h3>
 	</div>
 	<script src="js/bootstrap.min.js"></script>
   </body>
