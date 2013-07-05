@@ -44,7 +44,7 @@
 			<li>Wand of Frost 25294</li>
 			<li>Crumble Horn</li>
 		</ul>
-		<p>The follwing items are blocked and are allowed at certain ranks.</p>
+		<p>The following items are blocked and are only allowed at certain ranks.</p>
 		<ul>
 			<li>Wand of Excavation</li>
 			<li>Turtles</li>
